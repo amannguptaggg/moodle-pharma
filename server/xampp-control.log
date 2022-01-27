@@ -1,0 +1,35 @@
+2:46:03 PM  [main] 	Initializing Control Panel
+2:46:04 PM  [main] 	Windows Version:  Enterprise  64-bit
+2:46:04 PM  [main] 	XAMPP Version: 7.3.11
+2:46:04 PM  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+2:46:04 PM  [main] 	You are not running with administrator rights! This will work for
+2:46:04 PM  [main] 	most application stuff but whenever you do something with services
+2:46:04 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:46:04 PM  [main] 	about running this application with administrator rights!
+2:46:04 PM  [main] 	XAMPP Installation Directory: "c:\users\dell\moodle\server\"
+2:46:04 PM  [main] 	Checking for prerequisites
+2:46:19 PM  [main] 	All prerequisites found
+2:46:19 PM  [main] 	Initializing Modules
+2:46:19 PM  [main] 	The FileZilla module is disabled
+2:46:19 PM  [main] 	The Mercury module is disabled
+2:46:19 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+2:46:19 PM  [Tomcat] 	Disabling Tomcat buttons
+2:46:19 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+2:46:19 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+2:46:19 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+2:46:19 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+2:46:19 PM  [main] 	Starting Check-Timer
+2:46:19 PM  [main] 	Control Panel Ready
+2:47:33 PM  [Apache] 	Status change detected: running
+2:47:36 PM  [mysql] 	Status change detected: running
+3:34:40 PM  [Apache] 	Status change detected: stopped
+3:34:40 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+3:34:40 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+3:34:40 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+3:34:40 PM  [Apache] 	Press the Logs button to view error logs and check
+3:34:40 PM  [Apache] 	the Windows Event Viewer for more clues
+3:34:40 PM  [Apache] 	If you need more help, copy and post this
+3:34:40 PM  [Apache] 	entire log window on the forums
+3:41:07 PM  [main] 	Deinitializing Modules
+3:41:07 PM  [main] 	Deinitializing Control Panel
+
